@@ -1,27 +1,30 @@
+# Hello, I'm Emmanuel Ajike, but you can call me Emee! 👋
 
+🌍 Based in Nigeria 🇳🇬  
+🎓 Studying Computer Science  
+🎮 Gamer and Developer 🕹️  
 
-<div align="center" width="100%">
-    <img width="75%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"> 
-</div>
+## About Me
 
-<h1 align="center">Hi 👋, I'm Emmanuel AJike</h1>
-<h3 align="center">A passionate Backend developer from Nigeria</h3>
+I'm a passionate software developer with a knack for turning ideas into functional and efficient code. I love exploring new technologies and finding creative solutions to complex problems. Currently pursuing a degree in Computer Science, I'm excited to contribute to the world of technology and connect with like-minded developers.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jae-sd&label=Profile%20views&color=0e75b6&style=flat" alt="jae-sd" /> </p>
+## Skills
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jae-sd" alt="jae-sd" /></a> </p>
+- 💻 JavaScript, TypeScript (beginner)
+- 🗃️ MongoDB, Mongoose
+- ⚙️ Node.js
+- 📝 VS Code, Chrome DevTools
+- 🌐 Web Scraping
+- 🎮 Gaming Enthusiast
 
-- 🔭 I’m currently working on **Apis**
+## Projects
 
-- 💬 Ask me about **Javascript**
+[//]: # "This is a comment"
+- 🚀 Check out my project [Project Name](link-to-project-repo)
+- 🎉 Another cool project [Code Vault](https://github.com/jae-sd/hackathon)
 
-- 📫 How to reach me **emmanuelajike2000@gmail.com**
+## Let's Connect!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I'm always eager to connect with fellow developers, share experiences, and collaborate on interesting projects. Feel free to reach out to me via [LinkedIn](your-linkedin-profile) or follow me on [Twitter](https://twitter.com/___emee_?).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jae-sd&show_icons=true&locale=en" alt="jae-sd" /></p>
+Looking forward to meeting new friends and learning together! 😄
