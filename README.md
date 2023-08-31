@@ -20,11 +20,13 @@ I'm a passionate software developer with a knack for turning ideas into function
 ## Projects
 
 [//]: # "This is a comment"
-- 🚀 Check out my project [Project Name](link-to-project-repo)
+- 🚀 Check out my projects [Github](https://github.com/emee-dev/hackathon)
 - 🎉 Another cool project [Code Vault](https://github.com/jae-sd/hackathon)
 
 ## Let's Connect!
 
-I'm always eager to connect with fellow developers, share experiences, and collaborate on interesting projects. Feel free to reach out to me via [LinkedIn](your-linkedin-profile) or follow me on [Twitter](https://twitter.com/___emee_?).
+I'm always eager to connect with fellow developers, share experiences, and collaborate on interesting projects. Feel free to reach out to me on [Twitter](https://twitter.com/___emee_?).
+
+[//]: # "via [LinkedIn](your-linkedin-profile) or follow me"
 
 Looking forward to meeting new friends and learning together! 😄
