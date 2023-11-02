@@ -1,6 +1,6 @@
 # Hello, I'm Emmanuel Ajike, but you can call me emee! 👋
 
-[](🌍 Based in Nigeria 🇳🇬)  
+<!--- 🌍 Based in Nigeria 🇳🇬 -->  
 🎓 Studying Computer Science  
 🎮 Gamer and Developer 🕹️  
 
