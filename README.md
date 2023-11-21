@@ -20,8 +20,8 @@ I'm a passionate software developer with a knack for turning ideas into function
 ## Projects
 
 [//]: # "This is a comment"
-- 🚀 Check out my projects [Github](https://github.com/emee-dev/hackathon)
-- 🎉 Another cool project [Code Vault](https://github.com/emee-dev/treblle-hackathon)
+- 🚀 Check out my projects [Github](https://github.com/emee-dev)
+- 🎉 Another cool project [Treblle Express Sdk](https://github.com/emee-dev/treblle-monorepo)
 
 ## Let's Connect!
 
