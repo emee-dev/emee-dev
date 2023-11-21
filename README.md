@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a passionate software developer with a knack for turning ideas into functional and efficient code. I love exploring new technologies and finding creative solutions to complex problems. Currently pursuing a degree in Computer Science, I'm excited to contribute to the world of technology and connect with like-minded developers.
+I'm a passionate software developer with a knack for turning ideas into functional and efficient solutions. I love exploring new technologies and finding creative solutions to complex problems. Currently pursuing a degree in Computer Science, I'm excited to contribute to the world of technology and connect with like-minded developers.
 
 ## Skills
 
@@ -21,7 +21,7 @@ I'm a passionate software developer with a knack for turning ideas into function
 
 [//]: # "This is a comment"
 - 🚀 Check out my projects [Github](https://github.com/emee-dev/hackathon)
-- 🎉 Another cool project [Code Vault](https://github.com/jae-sd/hackathon)
+- 🎉 Another cool project [Code Vault](https://github.com/emee-dev/treblle-hackathon)
 
 ## Let's Connect!
 
