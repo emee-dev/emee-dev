@@ -23,6 +23,9 @@ I'm a passionate software developer with a knack for turning ideas into function
 - 🚀 Check out my projects [Github](https://github.com/emee-dev)
 - 🎉 Another cool project [Treblle Express Sdk](https://github.com/emee-dev/treblle-monorepo)
 
+## Currently Working On:
+ - Kinde CLI [Kinde Auth](https://github.com/emee-dev/kinde_cli)
+
 ## Let's Connect!
 
 I'm always eager to connect with fellow developers, share experiences, and collaborate on interesting projects. Feel free to reach out to me on [Twitter](https://twitter.com/___emee_?).
